@@ -1,0 +1,1 @@
+{"virtualbox":{"/var/www/html":{"create":true,"guestpath":"/var/www/html","hostpath":"C:/Users/hanse/OneDrive/Escritorio/devops proyecto/web_content","disabled":false,"__vagrantfile":true}}}
